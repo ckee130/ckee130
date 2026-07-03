@@ -349,7 +349,7 @@ const work: Work = {
   path: "/work",
   label: "Work",
   title: `Projects - ${person.name}`,
-  description: `Design and dev projects by ${person.name}`,
+  description: `Software engineering projects by ${person.name}`,
 };
 
 const gallery: Gallery = {

@@ -2,32 +2,32 @@
   
   <!-- Professional Header with Animated Effect - One Line -->
   <h1 align="center" style="margin-bottom: 30px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hi+there!+I+am+a+Software+Engineer;Hi+there!+I+am+a+Mobile+App+Developer;Hi+there!+I+am+a+AI+Engineer" alt="Professional Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hi+there!+I+am+a+Senior+Software+Engineer;Hi+there!+I+am+a+Full+Stack+Engineer;Hi+there!+I+am+a+AI+Engineer" alt="Professional Title" />
   </h1>
   
   <!-- Clean Professional Badges -->
   <p align="center" style="margin: 20px auto; max-width: 75%;">
+    <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-4A90E2?style=flat-square&logo=code&logoColor=white" alt="Senior Software Engineer" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(74, 144, 226, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+    <img src="https://img.shields.io/badge/Full%20Stack-00D9FF?style=flat-square&logo=react&logoColor=white" alt="Full Stack" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 217, 255, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     <img src="https://img.shields.io/badge/AI%20Engineer-FF6B9D?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI Engineer" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
-    <img src="https://img.shields.io/badge/Mobile%20Developer-00D9FF?style=flat-square&logo=mobile&logoColor=white" alt="Mobile Developer" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 217, 255, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
-    <img src="https://img.shields.io/badge/Cross--Platform-9D50FF?style=flat-square&logo=code&logoColor=white" alt="Cross Platform" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(157, 80, 255, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
   </p>
   
   <!-- Simple Professional Tagline -->
   <p align="center" style="font-size: 1.1em; color: #00D9FF; margin-top: 20px; max-width: 800px; margin-left: auto; margin-right: auto; font-weight: 300;">
-    Crafting exceptional mobile experiences with cutting-edge AI technologies
+    Building scalable platforms, distributed systems, and AI-integrated architecture
   </p>
   
   <!-- Professional Stats Badges -->
   <div align="center" style="margin: 30px 0;">
     <p align="center" style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/7%2B+Years-4A90E2?style=flat-square&logo=clock&logoColor=white" alt="Experience" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(74, 144, 226, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
-      <img src="https://img.shields.io/badge/20%2B+Apps-50C878?style=flat-square&logo=mobile&logoColor=white" alt="Apps" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(80, 200, 120, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
-      <img src="https://img.shields.io/badge/5M%2B+Downloads-FF6B9D?style=flat-square&logo=download&logoColor=white" alt="Downloads" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(255, 107, 157, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/8%2B+Years-4A90E2?style=flat-square&logo=clock&logoColor=white" alt="Experience" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(74, 144, 226, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/Full%20Stack-50C878?style=flat-square&logo=react&logoColor=white" alt="Full Stack" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(80, 200, 120, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/Cloud%20Native-FF6B9D?style=flat-square&logo=amazonaws&logoColor=white" alt="Cloud Native" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(255, 107, 157, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     </p>
     <p align="center" style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/4.5%2B+Rating-FFD700?style=flat-square&logo=star&logoColor=white" alt="Rating" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(255, 215, 0, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(49, 120, 198, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
       <img src="https://img.shields.io/badge/AI+Powered-00D9FF?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0, 217, 255, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
-      <img src="https://img.shields.io/badge/Cross+Platform-9D50FF?style=flat-square&logo=code&logoColor=white" alt="Cross Platform" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(157, 80, 255, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(255, 153, 0, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     </p>
   </div>
   
@@ -37,9 +37,9 @@
 
 <div align="center" style="color: #E0E0E0; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
-I'm a **Senior Mobile App Developer** and **AI Engineer** with **7+ years** of experience specializing in AI-enhanced mobile solutions and cross-platform development. I've successfully delivered **20+ mobile applications** with over **5 million combined downloads** and maintained **4.5+ star ratings** across app stores.
+I'm a **Senior Software Engineer** with **8+ years** of experience across full stack development, distributed systems, and AI-integrated platform architecture. I deliver scalable RESTful APIs, event-driven backends, and LLM evaluation tooling using **TypeScript**, **Node.js**, **Python**, and **React** in cloud-native **AWS** environments with CI/CD automation.
 
-My expertise spans the entire mobile development lifecycle with a focus on integrating cutting-edge AI technologies to create intelligent, user-centric applications. I'm passionate about leveraging AI to enhance mobile experiences, from natural language processing to computer vision and predictive analytics.
+My work spans frontend, backend, and AI layers—from microservices and observability pipelines to RAG-backed retrieval and structured output validation. I'm passionate about technical leadership, mentoring engineers, and shipping production-grade systems that balance performance, reliability, and compliance.
 
 </div>
 
@@ -49,14 +49,14 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 | Area | Expertise |
 |------|-----------|
-| 📱 **Native Development** | Building high-performance iOS and Android apps |
-| 🔄 **Cross-Platform Solutions** | Efficient development with React Native and Flutter |
-| 🤖 **AI Integration** | OpenAI, TensorFlow, PyTorch, LangChain, and RAG systems |
-| ⚙️ **Backend Integration** | Seamless API integration and real-time features |
-| ⚡ **Performance Optimization** | Ensuring smooth, responsive user experiences |
-| 🔒 **Security Implementation** | Protecting user data and app integrity |
-| 🚀 **CI/CD Pipelines** | Automated testing and deployment workflows |
-| 🧠 **Machine Learning** | Custom ML models and AI-powered features |
+| 🏗️ **Full Stack Development** | TypeScript, Node.js, Python, and React across frontend and backend |
+| ⚙️ **Backend & APIs** | RESTful API design, microservices, and event-driven architecture |
+| ☁️ **Cloud & DevOps** | AWS, Docker, Kubernetes, and GitHub Actions CI/CD pipelines |
+| 🤖 **AI Integration** | LLM integration, RAG, structured output validation, and evaluation tooling |
+| 📊 **Distributed Systems** | Observability, messaging (SQS), and production incident response |
+| 🔒 **Security & Compliance** | PII redaction, auth workflows, and data protection |
+| 📱 **Mobile Development** | React Native, Flutter, and cross-platform delivery |
+| 🧠 **Technical Leadership** | Mentoring, code reviews, and cross-team alignment |
 
 </div>
 
@@ -241,13 +241,13 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 | Category | Technologies |
 |----------|-------------|
-| 🍎 **Native Development** | iOS (Swift, Objective-C), Android (Kotlin, Java) |
-| 🔄 **Cross-Platform** | React Native, Flutter, Xamarin, Ionic |
-| 🤖 **AI & Machine Learning** | OpenAI, TensorFlow, PyTorch, LangChain, RAG, Vector DB |
-| ⚙️ **Backend Integration** | Node.js, Firebase, GraphQL, REST APIs |
-| 🧪 **Testing & QA** | Jest, Detox, Appium, XCUITest, Espresso |
-| 🚀 **DevOps & CI/CD** | Fastlane, Jenkins, GitHub Actions, Docker |
-| ☁️ **Cloud Services** | AWS, Google Cloud, Firebase, MongoDB |
+| 🏗️ **Full Stack** | TypeScript, Node.js, Python, React |
+| ⚙️ **Backend & APIs** | REST APIs, GraphQL, microservices, event-driven architecture |
+| 🤖 **AI & Machine Learning** | LLM integration, RAG, structured output validation, OpenAI, LangChain |
+| ☁️ **Cloud & DevOps** | AWS, Docker, Kubernetes, GitHub Actions, CI/CD |
+| 📱 **Mobile** | React Native, Flutter, iOS, Android |
+| 🧪 **Testing & QA** | Jest, Cypress, automated testing pipelines |
+| 🗄️ **Databases** | PostgreSQL, MongoDB, Redis, SQL |
 
 </div>
 
@@ -290,13 +290,14 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 | Metric | Achievement |
 |--------|-------------|
-| 📱 **App Downloads** | 5+ million across all platforms |
-| ⭐ **Average Rating** | 4.5+ on App Store and Google Play |
-| 🚀 **Performance** | 60% faster app launch times |
-| 🛡️ **Security** | Zero security breaches in financial apps |
-| ✅ **Test Coverage** | 95% across all mobile applications |
-| 📈 **User Engagement** | 35% improvement through AI features |
-| ⚡ **Development Speed** | 50% faster content generation with AI |
+| 🏗️ **Platform Delivery** | Full stack platforms across frontend, backend, and AI layers |
+| ⚡ **Latency Reduction** | Cut backend processing latency from 55ms to 36ms |
+| 🛡️ **Incident Response** | Reduced mean-time-to-detect P1 incidents from 22 to 6 minutes |
+| ✅ **Deployment Speed** | Cut deployment time from 40 minutes to 9 minutes across services |
+| 📈 **Team Impact** | Accelerated engineer onboarding by 50% through mentoring |
+| 🔒 **Compliance** | 30% reduction in compliance incidents via output validation |
+| 🧪 **Test Coverage** | 75%+ unit-test coverage with automated CI gates |
+| 🤖 **AI Systems** | RAG pipelines and LLM provider abstraction in production |
 
 </div>
 
@@ -336,14 +337,14 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 | Experience | Impact |
 |------------|--------|
-| 💼 **Years of Experience** | 7+ years delivering high-impact mobile applications |
-| 📥 **Total Downloads** | 5+ million across iOS and Android platforms |
-| ⭐ **App Store Rating** | 4.5+ average rating on App Store and Google Play |
-| ⚡ **Performance** | 40% improvement through optimization techniques |
-| 🔒 **Security** | Zero security incidents in production applications |
-| ✅ **Quality** | 95% test coverage ensuring app reliability |
-| 📊 **Innovation** | 35% user engagement boost through AI-powered features |
-| 🚀 **Efficiency** | 50% faster development with AI-assisted tools |
+| 💼 **Years of Experience** | 8+ years shipping production-grade software systems |
+| 🏗️ **Architecture** | Full stack platforms, microservices, and event-driven backends |
+| ⚡ **Performance** | Reduced processing latency and deployment times across services |
+| 🔒 **Compliance** | 30% reduction in compliance incidents via structured output validation |
+| 👥 **Leadership** | Mentored engineers and accelerated team onboarding by 50% |
+| ☁️ **Cloud Native** | AWS, CI/CD automation, and observability in production |
+| 🤖 **AI Engineering** | RAG pipelines, LLM evaluation tooling, and provider abstraction |
+| 🚀 **Delivery** | Agile delivery with automated testing gates and cross-team alignment |
 
 </div>
 
