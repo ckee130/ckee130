@@ -2,9 +2,9 @@ import { About, Blog, Gallery, Home, Newsletter, Person, Social, Work } from "@/
 import { Line, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "Kee",
-  lastName: "Ray",
-  name: `Kee Ray`,
+  firstName: "Clinton",
+  lastName: "Kee",
+  name: `Clinton Kee`,
   role: "Senior Software Engineer",
   avatar: "/images/avatar.jpg",
   email: "ala.kee666@outlook.com",
@@ -89,7 +89,7 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Kee is a McKenzie, TN–based senior software engineer with 8+ years across full stack development,
+        Clinton is a McKenzie, TN–based senior software engineer with 8+ years across full stack development,
         distributed systems, and AI-integrated platform architecture using TypeScript, Node.js, Python,
         and React. He delivers scalable RESTful APIs, event-driven backends, and LLM evaluation tooling
         across cloud-native AWS environments with CI/CD automation and structured output validation. A
