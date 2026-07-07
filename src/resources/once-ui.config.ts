@@ -190,13 +190,13 @@ const schema: SchemaConfig = {
   type: "Organization",
   name: "Clinton Kee",
   description: home.description,
-  email: "ala.kee666@outlook.com",
+  email: "c.r.kee@outlook.com",
 };
 
 // social links (schema sameAs; replace placeholder URLs when you have public profiles)
 const sameAs: SameAsConfig = {
   threads: `${baseURL}`,
-  linkedin: "https://www.linkedin.com/in/kee-ray-602b7a408/",
+  linkedin: `${baseURL}`,
   discord: `${baseURL}`,
 };
 

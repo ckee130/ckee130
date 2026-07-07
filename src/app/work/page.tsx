@@ -32,7 +32,7 @@ export default function Work() {
         {work.title}
       </Heading>
       <Text align="center" onBackground="neutral-weak" marginBottom="24">
-        A curated mix of mobile, web, and AI projects with real production impact.
+        A curated mix of backend, platform, and AI projects with real production impact.
       </Text>
       <Projects />
     </Column>

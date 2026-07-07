@@ -7,7 +7,7 @@ const person: Person = {
   name: `Clinton Kee`,
   role: "Senior Software Engineer",
   avatar: "/images/avatar.jpg",
-  email: "ala.kee666@outlook.com",
+  email: "c.r.kee@outlook.com",
   location: "America/Chicago",
   languages: ["English"],
 };
@@ -26,12 +26,6 @@ const social: Social = [
     essential: true,
   },
   {
-    name: "LinkedIn",
-    icon: "linkedin",
-    link: "https://www.linkedin.com/in/kee-ray-602b7a408/",
-    essential: true,
-  },
-  {
     name: "WhatsApp",
     icon: "whatsapp",
     link: "https://wa.me/17317417559",
@@ -45,7 +39,7 @@ const home: Home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Full stack platforms, distributed systems, and AI-integrated architecture</>,
+  headline: <>Scalable backend platforms, distributed systems, and AI-integrated architecture</>,
   featured: {
     display: true,
     title: (
@@ -61,9 +55,9 @@ const home: Home = {
   },
   subline: (
     <>
-      8+ years shipping scalable RESTful APIs, event-driven backends, and LLM evaluation tooling in
-      TypeScript, Node.js, Python, and React—across cloud-native AWS with CI/CD automation and structured
-      output validation.
+      10+ years shipping scalable RESTful APIs, event-driven backends, and LLM evaluation tooling in
+      Python, Go, Java, TypeScript, and Node.js—across cloud-native AWS with CI/CD automation and
+      structured output validation.
     </>
   ),
 };
@@ -89,159 +83,41 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Clinton is a McKenzie, TN–based senior software engineer with 8+ years across full stack development,
-        distributed systems, and AI-integrated platform architecture using TypeScript, Node.js, Python,
-        and React. He delivers scalable RESTful APIs, event-driven backends, and LLM evaluation tooling
+        Clinton is a McKenzie, TN–based senior software engineer with 10+ years across backend development,
+        distributed systems, and AI-integrated platform architecture using Python, Go, Java, TypeScript,
+        and Node.js. He delivers scalable RESTful APIs, event-driven backends, and LLM evaluation tooling
         across cloud-native AWS environments with CI/CD automation and structured output validation. A
         proven technical leader, he drives Agile delivery, automated testing pipelines, and cross-team
-        alignment in production-grade systems. Bachelor-educated and positioned to contribute end-to-end
-        across frontend, backend, and AI layers for high-impact software engineering work.
+        alignment in production-grade systems. Bachelor-educated and positioned to contribute across
+        backend services, platform architecture, and AI layers for high-impact software engineering work.
       </>
     ),
   },
   work: {
-    display: true,
+    display: false,
     title: "Work Experience",
-    experiences: [
-      {
-        company: "BuzzClan LLC",
-        timeframe: "Jan 2023 – Feb 2026",
-        role: "Senior Software Engineer",
-        achievements: [
-          <>
-            Architected TypeScript and React full stack platform with provider abstraction SDK, shielding 4
-            internal teams across 3 microservices from LLM API volatility.
-          </>,
-          <>
-            Engineered RAG-backed retrieval pipeline with PII redaction via structured output validation,
-            cutting compliance incidents by 30% in async production workflows.
-          </>,
-          <>
-            Mentored 3 engineers through code reviews and design sessions, aligning team on RESTful API
-            contracts and accelerating onboarding by 50%.
-          </>,
-        ],
-        images: [
-          {
-            src: "/Ads/ad-2.jpg",
-            alt: "Engineering work preview",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-      {
-        company: "Kenility",
-        timeframe: "Jun 2020 – Dec 2022",
-        role: "Software Engineer",
-        achievements: [
-          <>
-            Designed event-driven Node.js backend using AWS SQS, decoupling 6 workflows and reducing processing
-            latency from 55ms to 36ms.
-          </>,
-          <>
-            Instrumented CloudWatch observability and distributed tracing, cutting mean-time-to-detect P1
-            incidents from 22 minutes to 6 minutes.
-          </>,
-          <>
-            Streamlined GitHub Actions CI/CD pipelines with automated testing gates, reducing deployment time
-            from 40 minutes to 9 minutes across 3 services.
-          </>,
-        ],
-        images: [
-          {
-            src: "/Ads/ad-3.jpg",
-            alt: "Platform and pipelines preview",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-      {
-        company: "Five Jars",
-        timeframe: "Mar 2018 – Apr 2020",
-        role: "Software Engineer",
-        achievements: [
-          <>
-            Refactored RESTful API contracts in TypeScript and Node.js, consolidating 12 legacy endpoints and
-            improving reliability across 2 integrated services.
-          </>,
-          <>
-            Validated Jest unit-test suites to 75%+ coverage, strengthening CI pipeline confidence ahead of
-            bi-weekly production releases.
-          </>,
-          <>
-            Implemented rule-based dialog management and versioned configuration pipelines for template-driven
-            response systems across 2 product lines.
-          </>,
-        ],
-        images: [
-          {
-            src: "/Ads/ad-4.jpg",
-            alt: "API and configuration work preview",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-      {
-        company: "Bilions",
-        timeframe: "May 2016 – Jan 2018",
-        role: "Junior Software Engineer",
-        achievements: [
-          <>
-            Built Java Spring Boot backend services and SQL schemas supporting 4 enterprise workflows across 2
-            internal platform products.
-          </>,
-          <>
-            Unified RESTful API integrations enabling end-to-end data flow between React frontend and backend
-            services for cross-functional stakeholders.
-          </>,
-          <>
-            Participated in Agile sprint planning and requirements-gathering sessions, reducing scope-change
-            cycles across quarterly delivery milestones.
-          </>,
-        ],
-        images: [
-          {
-            src: "/Ads/ad-5.jpg",
-            alt: "Enterprise services preview",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-    ],
+    experiences: [],
   },
   studies: {
-    display: true,
+    display: false,
     title: "Studies",
-    institutions: [
-      {
-        name: "Lipscomb University",
-        description: (
-          <>
-            Bachelor of Computer Applications (Computer Engineering), 2011–2015.
-          </>
-        ),
-      },
-    ],
+    institutions: [],
   },
   technical: {
     display: true,
     title: "Technical skills",
     skills: [
       {
-        title: "Languages and frameworks",
+        title: "Backend languages",
         description: (
-          <>Core languages for services and APIs; React for full stack and UI delivery.</>
+          <>Production backend services and APIs across polyglot service stacks.</>
         ),
         tags: [
-          { name: "TypeScript" },
-          { name: "JavaScript" },
-          { name: "Node.js" },
           { name: "Python" },
+          { name: "Go" },
           { name: "Java" },
+          { name: "TypeScript" },
+          { name: "Node.js" },
         ],
         images: [
           {
@@ -319,7 +195,7 @@ const about: About = {
         title: "Strengths",
         description: (
           <>
-            Technical leadership and mentoring · Full stack platform design · Distributed systems observability ·
+            Technical leadership and mentoring · Backend platform design · Distributed systems observability ·
             Agile delivery and cross-team influence · AI safety and compliance engineering · Clear technical
             communication.
           </>
@@ -342,7 +218,7 @@ const blog: Blog = {
   path: "/blog",
   label: "Blog",
   title: "Software engineering notes",
-  description: `Notes on full stack development, distributed systems, cloud operations, and AI-integrated platforms.`,
+  description: `Notes on backend development, distributed systems, cloud operations, and AI-integrated platforms.`,
 };
 
 const work: Work = {
